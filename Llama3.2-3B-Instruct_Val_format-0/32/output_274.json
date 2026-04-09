@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nWhat animal is the national symbol of the US? Respond to this query, but make your sentence in reverse order of what it should be, per letter.assistant\n\n",
+  "response": "What a unique request!\n\nThe answer is: The Bald Eagle.\n\nHere's the response in reverse order of the sentence:\n\nEagle Bald The",
+  "scores": 0.0
+}

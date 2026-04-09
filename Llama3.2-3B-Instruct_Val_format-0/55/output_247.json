@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nEach paragraph of your response must end with the same word it started with, separate paragraphs with a newline. Fractional Reserve banking is effective as long as two things remain true. What are those two things, and why does fractional reserve banking depend on them?assistant\n\n",
+  "response": "The two things that remain true for fractional reserve banking to be effective are that the bank has sufficient reserves to cover withdrawals and that the loans are made to high-quality borrowers with low default risk. \n\nThe bank's ability to lend out a large portion of deposits relies on the fact that the loans are made to borrowers who are likely to repay the loans, thereby reducing the risk of default. \n\nThe bank's reserve requirements are set by regulatory bodies, such as central banks, to ensure that banks maintain a certain level of reserves to cover withdrawals and maintain financial stability.",
+  "scores": 0.0
+}

@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nGenerate CSV data: The column names are [\"StudentID\", \"Subject\", \"Grade\", \"Semester\", \"Score\"], the data should be tab delimited. Please generate 3 rows and enclose each single field in double quotes.assistant\n\n",
+  "response": "import csv\nimport io\n\ndata = [\n    [\"S001\", \"Math\", \"A\", \"Fall\", \"90\"],\n    [\"S002\", \"Science\", \"B\", \"Spring\", \"85\"],\n    [\"S003\", \"English\", \"A\", \"Summer\", \"95\"]\n]\n\noutput = io.StringIO()\nwriter = csv.writer(output, delimiter='\\t')\n\nfor row in data:\n    writer.writerow([f'\"{field}\"' for field in row])\n\nprint(output.getvalue())",
+  "scores": 0.0
+}

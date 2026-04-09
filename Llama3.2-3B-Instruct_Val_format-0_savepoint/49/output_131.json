@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nA spring pendulum with mass m on a spring with stiffness k, performing undamped harmonic oscillations, has at the initial moment of time t = 0 the coordinate x = x0 and velocity V =V0. What will be the amplitude and initial phase of these oscillations? Formulas only Your response must include bullet points denoted by * and at least one sub-bullet point denoted by - for each bullet point.assistant\n\n",
+  "response": "Here are the formulas for the amplitude and initial phase of the spring pendulum's oscillations:\n\n* Amplitude:\n\t- The amplitude of the oscillations is given by: A = √(x0^2 + V0^2 / k)\n\t- Where:\n\t\t- A is the amplitude of the oscillations\n\t\t- x0 is the initial displacement\n\t\t- V0 is the initial velocity\n\t\t- k is the spring stiffness\n* Initial Phase:\n\t- The initial phase of the oscillations is given by: φ = arctan(V0 / kx0)\n\t- Where:\n\t\t- φ is the initial phase of the oscillations\n\t\t- V0 is the initial velocity\n\t\t- k is the spring stiffness\n\t\t- x0 is the initial displacement",
+  "scores": 1.0
+}

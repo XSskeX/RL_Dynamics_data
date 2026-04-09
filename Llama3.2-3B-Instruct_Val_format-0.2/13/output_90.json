@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nAnswer with a list of items, instead of bullet points use -. No two consecutive words can share the same first letter. write a description of the 20th century in an over-dramatic, biblical styleassistant\n\n",
+  "response": "- The Dawn of Desolation\n- A Time of Great Turmoil\n- The World was Consumed by Fire\n- The Great War Raged Across the Land\n- Nations were Reduced to Ruin\n- The Roaring Twenties brought a False Sense of Security\n- The Great Depression cast a Dark Shadow\n- The Rise of Totalitarian Regimes\n- The World was Divided into Two Factions\n- The Atomic Age brought a New Era of Terror\n- The Cold War was a War of Ideologies\n- The Civil Rights Movement sought to Right the Wrongs\n- The Space Age brought a New Frontier\n- The World was on the Brink of Collapse\n- The 1960s were a Decade of Revolution\n- The 1970s were a Time of Economic Woes\n- The 1980s were a Decade of Excess\n- The 1990s were a Time of Globalization\n- The Millennium approached with a Sense of Uncertainty\n- The 21st Century dawned with a New Era of Hope",
+  "scores": 0.0
+}

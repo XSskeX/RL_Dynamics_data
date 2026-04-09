@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nThe response should not repeat any word more than 2 times. create me a description for a collection of watch bands called Sirius that features a square buckle.assistant\n\n",
+  "response": "Here's a description for the Sirius watch band collection:\n\n\"Introducing the Sirius collection, where sleek sophistication meets modern style. Each watch band features a distinctive square buckle, adding a touch of industrial chic to any timepiece. With a range of materials and colors to choose from, you can customize your look to suit your unique taste. From the rugged texture of the metal bands to the sleek lines of the square buckles, every detail is designed to make a statement. Whether you're dressing up or dressing down, the Sirius collection is the perfect accessory to elevate your style.\"",
+  "scores": 1.0
+}

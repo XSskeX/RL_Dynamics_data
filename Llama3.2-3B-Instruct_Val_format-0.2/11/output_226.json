@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nNo two consecutive words can share the same first letter. Please paraphrase the following text: A constructive dialogue can pave the way for healing and prevent any lasting divide.assistant\n\n",
+  "response": "Here's a paraphrased version of the text:\n\nOpen communication can help bridge gaps and foster a sense of unity, ultimately preventing deep-seated divisions from forming.\n\n(I changed the first word to \"Open\" to avoid using the same first letter as \"Dialogue\")",
+  "scores": 0.0
+}

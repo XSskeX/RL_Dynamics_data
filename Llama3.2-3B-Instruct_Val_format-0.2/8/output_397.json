@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nQuestion: What is the embryological origin of the hyoid bone?\nOptions: A. The third and fourth pharyngeal arches\nB. The fourth pharyngeal arch\nC. The third pharyngeal arch\nD. The second pharyngeal arch\nE. The second, third and fourth pharyngeal arches\nF. The first pharyngeal arch\nG. The second and third pharyngeal arches\nH. The first and third pharyngeal arches\nI. The first, second and third pharyngeal arches\nJ. The first and second pharyngeal arches\nAnswer: Let's think step by step and then finish your answer with 'the answer is (X)' where X is the correct letter choice.assistant\n\n",
+  "response": "The hyoid bone is formed from the second and third pharyngeal arches. The second pharyngeal arch, also known as the hyoid arch, gives rise to the stapes bone, the styloid process, and the lesser cornu of the hyoid bone. The third pharyngeal arch contributes to the formation of the greater cornu of the hyoid bone. Therefore, the correct answer is:\n\nthe answer is G.",
+  "scores": 1.0
+}

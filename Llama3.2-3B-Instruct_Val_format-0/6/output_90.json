@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nAnswer with a list of items, instead of bullet points use -. No two consecutive words can share the same first letter. write a description of the 20th century in an over-dramatic, biblical styleassistant\n\n",
+  "response": "- The Dawn of Desolation\n- A Time of Great Turmoil\n- The World was Consumed by Fire\n- The Great War Raged Across the Land\n- The Roaring Twenties: A Season of Excess\n- The Great Depression: A Plague upon the Earth\n- The Rise of the Tyrants: A New Order\n- The Second Great War: A Global Catastrophe\n- The Atomic Age: A New Era of Terror\n- The Cold War: A Frozen Conflict\n- The Civil Rights Movement: A Call to Freedom\n- The Space Age: A New Frontier\n- The Counterculture: A Rebellion against the Status Quo\n- The Watergate Scandal: A Fall of the Giants\n- The Rise of the Global Village: A New Era of Unity\n- The Fall of the Berlin Wall: A New Dawn\n- The Rise of the Digital Age: A New Era of Information\n- The War on Terror: A Global Conflict\n- The Great Recession: A Time of Economic Woe\n- The Arab Spring: A Call to Freedom\n- The End of an Era: A New Beginning",
+  "scores": 0.0
+}

@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nWrite a paragraph using words that contain only three types of vowels. what is most beautiful on life?assistant\n\n",
+  "response": "Here is a paragraph using words that contain only three types of vowels (A, E, and I):\n\n\"Life is a sweet tie that binds us all, a gentle hue that soothes the soul. The ripe pie sits on the table, a treat for the eye. The ripe tie is a symbol of love, a bond that's strong and free. The tie is a gift, a token of affection, a sweet tie that's meant to be.\"\n\nNote: I've used words like \"tie\", \"hue\", \"ripe\", \"pie\", and \"soul\" that contain only the three types of vowels A, E, and I.",
+  "scores": 0.0
+}

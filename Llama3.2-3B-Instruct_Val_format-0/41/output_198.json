@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nThe response must include keyword iritic in the 5-th sentence. The response must contain between 89 and 99 words. Any examples that existing research on fusion nuclear technologies has benefited the societyassistant\n\n",
+  "response": "Existing research on fusion nuclear technologies has led to significant advancements in energy production. One notable example is the development of the tokamak, a device that uses magnetic fields to confine and heat plasma, achieving controlled nuclear fusion. This technology has the potential to provide a nearly limitless source of clean energy. Additionally, research on fusion has also led to the development of new materials and technologies, such as superconducting magnets and advanced radiation shielding. These innovations have benefited society in various ways, including improved medical imaging and radiation detection. Iritic reactions have also been studied in fusion research.",
+  "scores": 0.0
+}

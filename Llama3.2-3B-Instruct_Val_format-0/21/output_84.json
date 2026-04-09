@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nAnswer with a list of items, instead of bullet points use!?!?. Defination of: preludes, caprichos, romances and balladsassistant\n\n",
+  "response": "Here is the list of definitions using!??!\n\n!???. Preludes: Short, expressive pieces of music that often serve as a transition or introduction to a larger work, typically featuring a solo instrument or a small ensemble.\n\n!???. Caprichos: A type of musical composition that originated in the 18th century, characterized by a lively and playful style, often featuring complex rhythms and intricate melodies.\n\n!???. Romances: A type of musical composition that typically features a slow and expressive melody, often with a lyrical quality, and may be accompanied by a solo instrument or a small ensemble.\n\n!???. Ballads: A type of narrative song that tells a story, often with a folkloric or legendary theme, typically featuring a strong rhythmic pulse and a singable melody.",
+  "scores": 0.0
+}

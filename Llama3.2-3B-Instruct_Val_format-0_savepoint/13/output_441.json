@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nQuestion: As of 2017, how many of the world’s 1-year-old children today have been vaccinated against some disease? *\nOptions: A. 30%\nB. 60%\nC. 10%\nD. 90%\nE. 80%\nF. 40%\nG. 100%\nH. 50%\nI. N/A\nJ. N/A\nAnswer: Let's think step by step and then finish your answer with 'the answer is (X)' where X is the correct letter choice.assistant\n\n",
+  "response": "Step 1:  According to the World Health Organization (WHO), as of 2017, the global vaccination coverage for children aged 1 year was around 90%.\nStep 2:  This means that approximately 90% of the world's 1-year-old children have been vaccinated against some disease.\nStep 3:  Therefore, the correct answer is the option that corresponds to 90%.\n\nthe answer is D.",
+  "scores": 0.0
+}

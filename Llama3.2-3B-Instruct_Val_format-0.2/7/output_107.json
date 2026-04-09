@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nNest parentheses (and [brackets {and braces}]) at least 5 levels deep. Determine the relationship of two lines: Vector r = (-2, 3, 4) + p(6, -2, 3), p∈R Vector r = (-2, 3, -4) + q(6, -2, 11), q∈Rassistant\n\n",
+  "response": "To determine the relationship of the two lines, we need to find the direction vectors and a point on each line.\n\nThe direction vector of the first line is (6, -2, 3), and a point on the line is (-2, 3, 4).\n\nThe direction vector of the second line is (6, -2, 11), and a point on the line is (-2, 3, -4).\n\nTo find the relationship between the two lines, we can compare the direction vectors and a point on each line.\n\nThe direction vectors are parallel, since they are scalar multiples of each other: (6, -2, 3) = 2(6, -2, 11).\n\nThe points on the lines are not equal, since (-2, 3, 4) ≠ (-2, 3, -4).\n\nTherefore, the two lines are parallel but not equal.",
+  "scores": 0.0
+}

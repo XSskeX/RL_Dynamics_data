@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nThe response must include keyword iritic in the 5-th sentence. The response must contain between 89 and 99 words. Any examples that existing research on fusion nuclear technologies has benefited the societyassistant\n\n",
+  "response": "Existing research on fusion nuclear technologies has led to significant advancements in our understanding of plasma physics and materials science. These advancements have improved the efficiency and safety of existing nuclear power plants. For instance, the development of superconducting magnets has enabled the creation of more powerful and efficient fusion reactors. Additionally, research on fusion has also led to the discovery of new materials with unique properties, such as superconducting materials that can withstand high temperatures. These discoveries have benefited society by improving the performance of existing nuclear power plants and paving the way for future fusion energy applications.",
+  "scores": 0.0
+}

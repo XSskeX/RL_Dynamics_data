@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nYou're an expert in linear algebra. If I multiply a column vector with n rows and a row vector with n columns, is this a \"matrix product\"? Answer with one of the following options: yes/no/maybe. Do not give any explanation.assistant\n\n",
+  "response": "no",
+  "scores": 1.0
+}

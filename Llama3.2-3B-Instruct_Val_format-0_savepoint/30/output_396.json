@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nQuestion: Which of the following is the body cavity that contains the pituitary gland?\nOptions: A. Ventral\nB. Dorsal\nC. Buccal\nD. Thoracic\nE. Pericardial\nF. Abdominal\nG. Spinal\nH. Pelvic\nI. Pleural\nJ. Cranial\nAnswer: Let's think step by step and then finish your answer with 'the answer is (X)' where X is the correct letter choice.assistant\n\n",
+  "response": "To determine the correct answer, let's consider the location of the pituitary gland. The pituitary gland is a small endocrine gland located at the base of the brain, just below the hypothalamus. Given its location, it is not contained within any of the body cavities listed in the options that are primarily associated with the thorax (chest), abdomen, or pelvis.\n\nThe pituitary gland is indeed closely associated with the cranial cavity, which is the space within the skull that houses the brain. Therefore, the body cavity that contains the pituitary gland is the cranial cavity.\n\nThe answer is J.",
+  "scores": 1.0
+}

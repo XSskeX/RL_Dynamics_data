@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nQuestion: The symmetric group $S_n$ has $\n\\factorial{n}$ elements, hence it is not true that $S_{10}$ has 10 elements.\nFind the characteristic of the ring 2Z.\nOptions: A. 0\nB. 30\nC. 3\nD. 10\nE. 12\nF. 50\nG. 2\nH. 100\nI. 20\nJ. 5\nAnswer: Let's think step by step and then finish your answer with 'the answer is (X)' where X is the correct letter choice.assistant\n\n",
+  "response": "The characteristic of a ring is the smallest positive integer n such that n times any element of the ring is equal to zero. In the case of the ring 2Z, the characteristic is 2 because 2 times any element of 2Z is equal to zero.\n\nThe answer is (G).",
+  "scores": 0.0
+}

@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nThe walls are solid but the stones are cracked and cold. The windows reflect the dead landscape before you with small plants growing on the walls. \\n\\nAdd a sentence to make this description of a house \\\"appealing\\\". It can be humurous or sarcastic. Copy the span of words that lies between (and including) index 0 and 7, the indices are word indices, split by whitespace!assistant\n\n",
+  "response": "The walls are solid but the stones are cracked and cold. The windows reflect the dead landscape before you with small plants growing on the walls. The house is a charming, slightly decrepit abode that's sure to add a touch of rustic charm to your life. \n\nThe span of words between index 0 and 7 is: \"The\", \"walls\", \"are\", \"solid\", \"but\", \"the\", \"stones\", \"are\", \"cracked\", \"and\", \"cold\".",
+  "scores": 0.0
+}

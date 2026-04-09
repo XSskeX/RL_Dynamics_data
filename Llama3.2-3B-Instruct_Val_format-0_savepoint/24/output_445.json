@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nQuestion: What place is named in the title of the 1979 live album by rock legends Cheap Trick?\nOptions: A. Brooklyn\nB. Beijing\nC. Budapest\nD. Boston\nE. Bhutan\nF. Barcelona\nG. Britain\nH. Brisbane\nI. Bruges\nJ. Budokan\nAnswer: Let's think step by step and then finish your answer with 'the answer is (X)' where X is the correct letter choice.assistant\n\n",
+  "response": "To determine the correct answer, we need to consider the title of the 1979 live album by Cheap Trick. The title of the album is \"Cheap Trick at Budokan.\" This indicates that the place named in the title is the Budokan, which is a famous concert venue in Tokyo, Japan.\n\nThe answer is J.",
+  "scores": 1.0
+}

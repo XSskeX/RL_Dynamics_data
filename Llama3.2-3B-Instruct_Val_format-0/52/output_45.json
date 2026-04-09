@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nThe response must contain between 77 and 99 words. Patient says their neck feels stiff and swollen around throat area and throat feels sore. As a doctor, you can see no signs of swelling, and it's confirmed not to be a respiratory infection. What are the possible causes from the data you can gather?assistant\n\n",
+  "response": "Based on the patient's symptoms, possible causes could include a viral or bacterial pharyngitis (sore throat), a thyroid issue, or a neck strain. The lack of visible swelling and confirmed absence of respiratory infection rules out common cold or flu. Other possibilities include a thyroid nodules or goiter, which can cause stiffness and swelling in the neck area. Additionally, a neck strain or whiplash injury could also be a contributing factor. Further examination and diagnostic tests, such as a thyroid function test or imaging studies, may be necessary to determine the underlying cause.",
+  "scores": 1.0
+}

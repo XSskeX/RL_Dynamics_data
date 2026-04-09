@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nThe response must include keyword cactiform in the 4-th sentence. The response must contain between 81 and 93 words. talk about historical and political climate during the time nicolaus Copernicus founded his theoryassistant\n\n",
+  "response": "In the 16th century, Nicolaus Copernicus founded his heliocentric theory, challenging the geocentric model of the universe. The historical climate was marked by a sense of intellectual curiosity and a desire for reform. The Catholic Church's grip on knowledge was weakening, and the Renaissance was in full swing. The cactiform shapes of ancient Greek and Roman architecture were being rediscovered, influencing artistic and scientific thought. As Copernicus' theory gained traction, it sparked heated debates about the nature of the universe and humanity's place within it.",
+  "scores": 1.0
+}

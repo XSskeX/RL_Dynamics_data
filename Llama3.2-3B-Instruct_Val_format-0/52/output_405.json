@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nQuestion: A microwave oven is connected to an outlet, 120 V, and draws a current of 2 amps. At what rate is energy being used by the microwave oven?\nOptions: A. 240 W\nB. 120 W\nC. 10 W\nD. 480 W\nE. 360 W\nF. 200 W\nG. 30 W\nH. 150 W\nI. 60 W\nJ. 300 W\nAnswer: Let's think step by step and then finish your answer with 'the answer is (X)' where X is the correct letter choice.assistant\n\n",
+  "response": "Step 1: Understand the problem\nThe problem is asking for the rate at which energy is being used by the microwave oven. This can be calculated using the formula: Power (W) = Voltage (V) x Current (I).\n\nStep 2: Identify the given values\nThe given values are:\n- Voltage (V) = 120 V\n- Current (I) = 2 amps\n\nStep 3: Calculate the power\nUsing the formula Power (W) = Voltage (V) x Current (I), we can calculate the power:\nPower (W) = 120 V x 2 amps = 240 W\n\nStep 4: Choose the correct answer\nThe calculated power is 240 W, which corresponds to option A.\n\nThe answer is A.",
+  "scores": 1.0
+}

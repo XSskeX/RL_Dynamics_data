@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nQuestion: Which of the given formulas of PL is the best symbolization of the following sentence?\nTurtles live long lives and are happy creatures, unless they are injured.\nOptions: A. (L • H) ≡ I\nB. (L • H) ∨ I\nC. L • (H ∨ I)\nD. L • (H ⊃ R).\nE. N/A\nF. N/A\nG. N/A\nH. N/A\nI. N/A\nJ. N/A\nAnswer: Let's think step by step and then finish your answer with 'the answer is (X)' where X is the correct letter choice.assistant\n\n",
+  "response": "The final answer is C.",
+  "scores": 0.0
+}

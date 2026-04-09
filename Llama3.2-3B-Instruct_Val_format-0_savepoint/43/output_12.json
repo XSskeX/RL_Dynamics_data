@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nInclude keyword beneath in the 23-rd sentence, as the 34-th word of that sentence. Reference Text: Are there discrete random variables X, Y where the E(X) and E(Y) are finite but E(X + Y) is undefined or infinite?assistant\n\n",
+  "response": "1. Are\n2. there\n3. discrete\n4. random\n5. variables\n6. X,\n7. Y\n8. where\n9. the\n10. E(X)\n11. and\n12. E(Y)\n13. are\n14. finite\n15. but\n16. E(X\n17. +\n18. Y)\n19. is\n20. undefined\n21. or\n22. infinite\n23. Because\n\n34. the",
+  "scores": 0.0
+}

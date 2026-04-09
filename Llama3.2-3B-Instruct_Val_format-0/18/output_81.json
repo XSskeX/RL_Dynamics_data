@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nCreate stairs by incrementally indenting each new line. Respond with three sentences, all containing the same number of characters but using all different words. What if Arya could disguise others as herself?assistant\n\n",
+  "response": "&nbsp;&nbsp;&nbsp;&nbsp;She would masterfully impersonate foes with ease.\n&nbsp;&nbsp;&nbsp;&nbsp;Her skills in deception would be unmatched always.\n&nbsp;&nbsp;&nbsp;&nbsp;Her enemies would be fooled by her disguise.",
+  "scores": 0.0
+}

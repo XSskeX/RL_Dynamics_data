@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nEnsure each word in your response has at least one consonant cluster (two or more consonants together). Alternate between words with odd and even numbers of syllables. rewrite: organising multiple teams to align and start work on the same deliveryassistant\n\n",
+  "response": "Here's the rewritten text with each word having at least one consonant cluster and alternating between words with odd and even numbers of syllables:\n\n\"Organising (odd) multiple (odd) teams (odd) to (even) align (odd) and (even) start (odd) work (odd) on (even) the (odd) same (odd) delivery (odd)\"\n\nHere's the rewritten text with the requested changes:\n\n\"Organising (odd) teams (odd) to (even) align (odd) and (even) start (odd) work (odd) on (even) the (odd) same (odd) delivery (odd) with (odd) multiple (odd) teams (odd) to (even) align (odd) and (even) start (odd) work (odd) on (even) the (odd) same (odd) delivery (odd)\"",
+  "scores": 0.0
+}

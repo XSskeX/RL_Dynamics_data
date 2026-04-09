@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nWrite a paragraph using words that contain only three types of vowels. what is most beautiful on life?assistant\n\n",
+  "response": "What a unique request! Here's a paragraph using words with only three types of vowels (A, E, and I):\n\n\"Life is a gentle breeze that whispers sweet nothings to the soul. The morning dew glistens on the petals of the rose, a delicate beauty that's simply divine. The soft rustle of leaves in the forest is a soothing serenade, a symphony of sounds that's both calming and serene. In this peaceful world, beauty is a fleeting glimpse of perfection, a moment of stillness that's worth savoring.\"\n\nNote: I've used words like \"gentle\", \"whispers\", \"delicate\", \"serenade\", and \"serene\" to meet the three-vowel constraint.",
+  "scores": 0.0
+}

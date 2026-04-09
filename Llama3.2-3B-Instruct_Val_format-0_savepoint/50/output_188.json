@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nEach sentence in your response must contain exactly 1 more words than the previous one. could you write an a theatrical short film before Ralph Bakshi's Cool Worldassistant\n\n",
+  "response": "Here is a short film treatment with exactly one more word than the previous sentence:\n\nDarkness falls slowly tonight.\nDarkness falls slowly tonight again.\nDarkness falls slowly tonight again falls.\n\nNote: This is a very short and simple treatment, and it's not a full-fledged film script. It's more of a poetic and atmospheric piece that sets the tone for a story.\n\nIf I were to expand on this, I might write:\n\nDarkness falls slowly tonight again falls deep.\nDarkness falls slowly tonight again falls deep into.\nDarkness falls slowly tonight again falls deep into shadows.\n\nAnd so on.",
+  "scores": 0.0
+}

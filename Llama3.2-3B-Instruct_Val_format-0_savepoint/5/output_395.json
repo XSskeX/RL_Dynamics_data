@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nQuestion: A total of 30 players will play basketball at a park. There will be exactly 5 players on each team. Which statement correctly explains how to find the number of teams needed?\nOptions: A. Multiply 5 by 5 to find 25 teams.\nB. Divide 30 by 5 to find 6 teams.\nC. Add 5 to 30 to find 35 teams.\nD. Subtract 30 from 5 to find -25 teams.\nE. Divide 5 by 30 to find 0.1667 teams.\nF. Add 5 to 30 then divide by 2 to find 17.5 teams.\nG. N/A\nH. N/A\nI. N/A\nJ. N/A\nAnswer: Let's think step by step and then finish your answer with 'the answer is (X)' where X is the correct letter choice.assistant\n\n",
+  "response": "To find the number of teams needed, we need to divide the total number of players (30) by the number of players on each team (5).\n\n30 ÷ 5 = 6\n\nTherefore, the correct answer is:\n\nthe answer is B.",
+  "scores": 1.0
+}

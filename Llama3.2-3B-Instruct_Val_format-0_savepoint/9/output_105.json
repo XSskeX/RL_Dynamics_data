@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nAnswer with one of the following options: a), b), c), d). Do not give any explanation. Automatic speech recognition (ASR) aims to convert speech signals to text sequences. The performance of an ASR system is measured in terms of the word error rate (WER) which comprises three types of recognition errors except          A.         Substitution          B.         Insertion          C.         Negation          D.         Deletionassistant\n\n",
+  "response": "D)",
+  "scores": 0.0
+}

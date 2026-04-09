@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nQuestion: According to the Individuals with Disabilities Education Improvement Act, which of the following must an educational agency do before it changes the educational placement of a student with a disability?\nOptions: A. Notify the parents in writing\nB. Obtain the child's consent\nC. Obtain a court order\nD. Conduct a new evaluation of the child's disability\nE. Discuss with the child's psychologist\nF. Give the child a trial period in the new environment\nG. Obtain parental consent\nH. Notify the local education authority\nI. Arrange a meeting with all teachers and administrators\nJ. Obtain school board approval\nAnswer: Let's think step by step and then finish your answer with 'the answer is (X)' where X is the correct letter choice.assistant\n\n",
+  "response": "The Individuals with Disabilities Education Improvement Act (IDEIA) requires that an educational agency notify parents in writing before changing the educational placement of a student with a disability. This is a requirement under the law to ensure that parents are informed and involved in the decision-making process.\n\nThe answer is A.",
+  "scores": 1.0
+}

@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nGenerate CSV data: The column names are [\"ID\", \"Country\", \"City\", \"Year\", \"Count\"], the data should be comma delimited. Please generate 7 rows.assistant\n\n",
+  "response": "Here is the CSV data you requested:\n\nID,Country,City,Year,Count\n1,USA,New York,2020,100\n2,Canada,Toronto,2020,50\n3,UK,London,2020,200\n4,USA,Chicago,2020,150\n5,Canada,Montreal,2020,75\n6,UK,Birmingham,2020,100\n7,USA,Los Angeles,2020,250",
+  "scores": 1.0
+}

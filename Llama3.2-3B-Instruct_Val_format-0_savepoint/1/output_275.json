@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nGenerate CSV data: The column names are [\"ID\", \"Country\", \"City\", \"Year\", \"Count\"], the data should be comma delimited. Please generate 7 rows.assistant\n\n",
+  "response": "import pandas as pd\nimport random\n\n# List of countries\ncountries = [\"USA\", \"Canada\", \"Mexico\", \"UK\", \"Germany\", \"France\", \"Italy\"]\n\n# List of cities\ncities = [\"New York\", \"Toronto\", \"Mexico City\", \"London\", \"Berlin\", \"Paris\", \"Rome\"]\n\n# List of years\nyears = [2020, 2021, 2022, 2023, 2024, 2025, 2026]\n\n# List of counts\ncounts = [100, 200, 300, 400, 500, 600, 700]\n\n# Generate data\ndata = {\n    \"ID\": range(1, 8),\n    \"Country\": random.choices(countries, k=7),\n    \"City\": random.choices(cities, k=7),\n    \"Year\": random.choices(years, k=7),\n    \"Count\": random.choices(counts, k=7)\n}\n\n# Create DataFrame\ndf = pd.DataFrame(data)\n\n# Convert to CSV\ncsv_data = df.to_csv(index=False)\n\nprint(csv_data)",
+  "scores": 0.0
+}

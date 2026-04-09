@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nQuestion: SHA-1 has a message digest of\nOptions: A. 628 bits\nB. 780 bits\nC. 160 bits\nD. 256 bits\nE. 2048 bits\nF. 820 bits\nG. 128 bits\nH. 512 bits\nI. 1024 bits\nJ. 64 bits\nAnswer: Let's think step by step and then finish your answer with 'the answer is (X)' where X is the correct letter choice.assistant\n\n",
+  "response": "Step 1: SHA-1 is a cryptographic hash function that produces a fixed-size message digest.\n\nStep 2: The message digest size of SHA-1 is a key characteristic that distinguishes it from other hash functions.\n\nStep 3: According to the documentation and specifications of SHA-1, the message digest size is 160 bits.\n\nStep 4: Now, we can evaluate the answer options to find the correct one.\n\nThe answer is C.",
+  "scores": 1.0
+}

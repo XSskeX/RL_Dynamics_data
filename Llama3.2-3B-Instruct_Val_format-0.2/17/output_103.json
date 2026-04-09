@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nAnswer with one of the following options: a), b), c), d). Do not give any explanation. Defendant (D) is accused of attempted sexual assault of a 14-year-old victim.    In the prosecution's case-in-chief, the Prosecutor seeks to introduce evidence that six years earlier, D was convicted of sexually assaulting a 16-year-old. The evidence of the previous sexual assault is:      a.   Inadmissible because the previous assault was not child molestation.      b.   Inadmissible because D is charged with an attempted sexual assault.      c.   Inadmissible because D has not put his character for peacefulness into issue.      d.   Admissible character evidence.assistant\n\n",
+  "response": "d)",
+  "scores": 1.0
+}

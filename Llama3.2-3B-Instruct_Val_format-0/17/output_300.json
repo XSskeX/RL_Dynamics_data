@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nCome up with a name for a brand that consists of one or at most two words, for the manufacture of neon-lit advertising signs that is easy to pronounce and does not already exist on the Internet. 20 names. The output should not contain any whitespace.assistant\n\n",
+  "response": "1.LuminaSigns\n2.Nexonix\n3.LitWave\n4.GlowZone\n5.Neonixx\n6.Luminate\n7.GlowPro\n8.NexaSigns\n9.LitUp\n10.Neonix\n11.Glowify\n12.LuminaX\n13.Nexon\n14.LitSigns\n15.Neonixy\n16.Glowifyx\n17.LuminaPro\n18.NexaGlow\n19.LitWavez\n20.Nexonixx",
+  "scores": 0.0
+}

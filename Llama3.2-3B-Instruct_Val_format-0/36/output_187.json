@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nEach sentence in your response must contain exactly 4 more words than the previous one. Would a nasal spray composed only of Sodium Hyaluronate 0.25mg and Dexpanthenol 20.0mg be free from the typical side effects of antihistamine-containing nasal sprays?assistant\n\n",
+  "response": "The ingredients listed are commonly used\nin over-the-counter nasal sprays effectively reducing\nnasal congestion and runny nose symptoms\nfrequently experienced by many people worldwide already\ntypically causing mild side effects such as\nnasal irritation and redness in some cases",
+  "scores": 1.0
+}

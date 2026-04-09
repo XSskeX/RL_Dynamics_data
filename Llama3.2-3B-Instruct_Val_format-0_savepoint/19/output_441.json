@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nQuestion: As of 2017, how many of the world’s 1-year-old children today have been vaccinated against some disease? *\nOptions: A. 30%\nB. 60%\nC. 10%\nD. 90%\nE. 80%\nF. 40%\nG. 100%\nH. 50%\nI. N/A\nJ. N/A\nAnswer: Let's think step by step and then finish your answer with 'the answer is (X)' where X is the correct letter choice.assistant\n\n",
+  "response": "Step 1:  According to the World Health Organization (WHO), as of 2017, the global vaccination coverage for children aged 1 year has been steadily increasing over the years.\nStep 2:  The WHO reports that in 2017, about 85% of the world's children aged 1 year had received at least one dose of vaccine.\nStep 3:  This means that about 15% of the world's 1-year-old children had not received any vaccine.\nStep 4:  Therefore, the correct answer is the option that represents the highest percentage of children who have been vaccinated, which is 85% or 0.85, but this is not an option, so we need to find the closest option.\nStep 5:  The closest option to 85% is 80%, which is option E.\n\nthe answer is E",
+  "scores": 1.0
+}

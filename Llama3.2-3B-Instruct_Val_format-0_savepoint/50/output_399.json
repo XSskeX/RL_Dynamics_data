@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nQuestion: How many attempts should you make to cannulate a patient before passing the job on to a senior colleague, according to the medical knowledge of 2020?\nOptions: A. 1\nB. Unlimited attempts\nC. 5\nD. 0, always pass on to a senior colleague\nE. 7\nF. 2\nG. 4\nH. 6\nI. 3\nJ. 8\nAnswer: Let's think step by step and then finish your answer with 'the answer is (X)' where X is the correct letter choice.assistant\n\n",
+  "response": "To determine the correct answer, we need to consider the medical guidelines and best practices for cannulation attempts in 2020. The American Society of Anesthesiologists (ASA) and other medical organizations have established guidelines for safe cannulation practices.\n\nAccording to these guidelines, it is recommended to limit the number of attempts to cannulate a patient to a maximum of 6 attempts. This is to minimize the risk of complications, such as vascular injury, and to ensure the safety of the patient.\n\nThe correct answer is:\n\nthe answer is H.",
+  "scores": 0.0
+}

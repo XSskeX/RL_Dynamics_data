@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nWrite a paragraph using words that contain only three types of vowels. A title for a research project on how the narratives shape our human mindassistant\n\n",
+  "response": "Here is a paragraph using words that contain only three types of vowels (A, E, and I):\n\n\"The kite cuts kite strings, kite-like, kite-ing kite. The kite's kite-like kite is kite-ing kite, kite-ing kite. The kite's kite is kite-ing kite, kite-ing kite, kite-ing kite.\"\n\nAnd here is a title for a research project on how narratives shape our human mind:\n\n\"Narratives and the Mind: An Exploration of the Impact of Storytelling on Human Cognition and Identity\"\n\nNote: I've used words like \"kite\", \"kite-like\", \"kite-ing\" to create a paragraph that meets the three-vowel constraint.",
+  "scores": 0.0
+}

@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nEach word in your response must start with the next letter of the alphabet, looping back to 'A' after 'Z'. We can consider than a text-to-image model learns concepts such as what a bear is by having having image-caption pairs in the training dataset that both show and have \"bear\" in the  caption. Is there anything analogous to such concepts in language models?assistant\n\n",
+  "response": "Boldly, cognitive developers create datasets deliberately, enabling effective feature extraction. Gigantic amounts of human-generated data facilitate generalization. Hidden in these datasets, intricate knowledge is implicit, juxtaposing language models' limitations. Just as knowledge about bears is learned, language models acquire linguistic nuances. Keenly, researchers investigate knowledge acquisition mechanisms. Linguistic patterns, meticulously mapped, nurture models' understanding.",
+  "scores": 0.0
+}

@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nInclude quotes within quotes within quotes, at least 3 levels deep, alternating between double quotes and single quotes. How many solutions are there to the equation $x_1 + x_2 + x_3 + x_4 = 20$, where $x_i$ is a non-negative integer, for all $i$, if (a) there are no restrictions? (b) $x_1 > 1$, $x_2 > 2$, $x_3 > 3$, $x_4 > 4$? (c) $x_1 > 4$ and $x_3 < 5$?assistant\n\n",
+  "response": "(a) There are 1001 solutions. (b) There are 6 solutions. (c) There are 4 solutions.",
+  "scores": 0.0
+}

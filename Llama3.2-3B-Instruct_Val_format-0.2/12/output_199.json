@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nThe response must include keyword cactiform in the 4-th sentence. The response must contain between 81 and 93 words. talk about historical and political climate during the time nicolaus Copernicus founded his theoryassistant\n\n",
+  "response": "In the 16th century, Nicolaus Copernicus, a Polish astronomer, laid the foundation for modern astronomy with his heliocentric theory. This revolutionary idea challenged the geocentric model, which placed Earth at the center of the universe. The historical and political climate of the time was marked by a sense of intellectual curiosity and a desire for reform. The Catholic Church, however, was resistant to Copernicus' theory, viewing it as a threat to its authority. The cactiform shapes of ancient astronomical instruments, such as the astrolabe, reflected the complexity of Copernicus' ideas.",
+  "scores": 0.0
+}

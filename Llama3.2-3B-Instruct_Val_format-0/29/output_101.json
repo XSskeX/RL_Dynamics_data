@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nAnswer with one of the following options: yes/no/maybe. Could sensitive historical events be better digested in game form with humour, interesting allegorical story, and loveable characters?assistant\n\n",
+  "response": "yes",
+  "scores": 1.0
+}

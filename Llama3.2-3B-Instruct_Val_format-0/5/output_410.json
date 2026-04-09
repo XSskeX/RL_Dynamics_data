@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nQuestion: In an organization, the group of people tasked with buying decisions is referred to as the _______________.\nOptions: A. Procurement centre.\nB. Chief executive unit.\nC. Resources allocation group.\nD. Marketing department.\nE. Purchasing department.\nF. Supply chain management team.\nG. Outsourcing unit.\nH. Decision-making unit.\nI. Operations unit.\nJ. Financial management team.\nAnswer: Let's think step by step and then finish your answer with 'the answer is (X)' where X is the correct letter choice.assistant\n\n",
+  "response": "The decision-making unit (DMU) is the group of people who make the decisions regarding the purchase of goods and services. The DMU is responsible for evaluating the options and making the final decision on what to purchase.\n\nThe answer is H.",
+  "scores": 1.0
+}

@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nhow to find what value in a quadratic function lands on a certain point. Copy the span of words that lies between (and including) index 10 and 12, the indices are word indices, split by whitespace!assistant\n\n",
+  "response": "To find the value in a quadratic function that lands on a certain point, you can use the following steps:\n\n1. Write down the quadratic function in the form f(x) = ax^2 + bx + c.\n2. Plug in the x-value of the point you want to find the corresponding y-value for into the function.\n3. Solve for y.\n\nFor example, let's say you want to find the value of f(x) at x = 2, given the quadratic function f(x) = x^2 + 3x - 4.\n\nStep 1: Write down the quadratic function: f(x) = x^2 + 3x - 4\n\nStep 2: Plug in x = 2 into the function: f(2) = (2)^2 + 3(2) - 4\n\nStep 3: Solve for y: f(2) = 4 + 6 - 4 = 6\n\nTherefore, the value of the quadratic function at x = 2 is 6.\n\nThe span of words between indices 10 and 12 is: \"function\"",
+  "scores": 0.0
+}

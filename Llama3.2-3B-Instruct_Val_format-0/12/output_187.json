@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nEach sentence in your response must contain exactly 4 more words than the previous one. Would a nasal spray composed only of Sodium Hyaluronate 0.25mg and Dexpanthenol 20.0mg be free from the typical side effects of antihistamine-containing nasal sprays?assistant\n\n",
+  "response": "The ingredients listed are commonly used in over-the-counter nasal sprays. Typically, these ingredients cause mild side effects. Some users may experience nasal congestion. Nasal congestion can be temporary. Temporary side effects usually resolve.",
+  "scores": 0.0
+}

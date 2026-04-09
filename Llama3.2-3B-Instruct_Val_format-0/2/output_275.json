@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nGenerate CSV data: The column names are [\"ID\", \"Country\", \"City\", \"Year\", \"Count\"], the data should be comma delimited. Please generate 7 rows.assistant\n\n",
+  "response": "import csv\nimport random\n\n# List of countries\ncountries = [\"USA\", \"Canada\", \"Mexico\", \"UK\", \"Germany\", \"France\", \"Italy\"]\n\n# List of cities\ncities = [\"New York\", \"Toronto\", \"Mexico City\", \"London\", \"Berlin\", \"Paris\", \"Rome\"]\n\n# List of years\nyears = [2020, 2021, 2022, 2023, 2024, 2025, 2026]\n\n# List of counts\ncounts = [100, 200, 300, 400, 500, 600, 700]\n\n# Generate CSV data\ndata = []\nfor i in range(7):\n    data.append({\n        \"ID\": i+1,\n        \"Country\": random.choice(countries),\n        \"City\": random.choice(cities),\n        \"Year\": random.choice(years),\n        \"Count\": random.choice(counts)\n    })\n\n# Write CSV data to a file\nwith open('data.csv', 'w', newline='') as csvfile:\n    writer = csv.DictWriter(csvfile, fieldnames=data[0].keys())\n    writer.writeheader()\n    writer.writerows(data)",
+  "scores": 0.0
+}

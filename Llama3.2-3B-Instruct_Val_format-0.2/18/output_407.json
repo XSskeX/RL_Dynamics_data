@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nQuestion: _______ is the direct attempt to formally or informally manage ethical issues or problems, through specific policies, practices and programmes.\nOptions: A. Operational management\nB. Corporate governance\nC. Environmental management\nD. Business ethics management\nE. Sustainability\nF. Stakeholder management\nG. Social marketing\nH. Human resource management\nI. N/A\nJ. N/A\nAnswer: Let's think step by step and then finish your answer with 'the answer is (X)' where X is the correct letter choice.assistant\n\n",
+  "response": "Step 1: Analyze the question to understand what it is asking for. The question is about the direct attempt to formally or informally manage ethical issues or problems.\n\nStep 2: Look at the options provided and identify the one that best matches the description given in the question.\n\nStep 3: Eliminate options that do not directly relate to managing ethical issues or problems.\n\nStep 4: Identify the correct answer based on the analysis.\n\nThe answer is D.",
+  "scores": 1.0
+}

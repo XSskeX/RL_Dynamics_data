@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nThe second word in your response and the second to last word in your response should be the word despite. Reference Text: Developments in new types of architecture, literature and art contributed to a new national American identity.assistant\n\n",
+  "response": "I'm glad you found the reference text. Despite",
+  "scores": 0.0
+}

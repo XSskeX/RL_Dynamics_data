@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nQuestion: The coil of a moving coil meter has 100 turns, is 40 mm long and 30 mm wide. The control torque is 240*10-6 N-m on full scale. If magnetic flux density is 1Wb/m2 range of meter is\nOptions: A. 2 mA.\nB. 5 mA.\nC. 1.5 mA.\nD. 0.5 mA.\nE. 6 mA.\nF. 4 mA.\nG. 3 mA.\nH. 1 mA.\nI. 2.5 mA.\nJ. 3.5 mA.\nAnswer: Let's think step by step and then finish your answer with 'the answer is (X)' where X is the correct letter choice.assistant\n\n",
+  "response": "To find the range of the meter, we need to calculate the current that will produce the full-scale deflection torque.\n\nThe control torque (T) is given by:\n\nT = n x B x I x A\n\nwhere:\nn = number of turns = 100\nB = magnetic flux density = 1 Wb/m²\nI = current = unknown\nA = area of the coil = length x width = 40 mm x 30 mm = 0.04 m x 0.03 m = 0.0012 m²\n\nRearranging the equation to solve for I, we get:\n\nI = T / (n x B x A)\n\nSubstituting the values, we get:\n\nI = 240*10^-6 N-m / (100 x 1 Wb/m² x 0.0012 m²)\nI = 2 mA\n\nTherefore, the range of the meter is 2 mA.\n\nThe answer is A.",
+  "scores": 1.0
+}

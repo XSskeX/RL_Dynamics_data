@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nEnsure that the ratio of sentence types (declarative, interrogative, exclamatory) in your response is balanced. If rock unit D is an intrusion, which geologic principle would you use to determine the age of rock unit D with respect to rock unit E (the fault)? Original horizontality, superposition, lateral continuity, or cross cutting relationships?assistant\n\n",
+  "response": "If rock unit D is an intrusion, we can use the principle of cross-cutting relationships to determine its age with respect to rock unit E (the fault). Cross-cutting relationships state that a fault or fracture that cuts across a rock unit is younger than the rock unit itself. Since rock unit D is an intrusion, it is a type of igneous rock that formed from magma that rose from the Earth's mantle and solidified. The fault, on the other hand, is a fracture in the Earth's crust that formed after the rock unit D was formed.\n\nTherefore, since the fault cuts across rock unit D, it is younger than rock unit D. This means that rock unit D is older than rock unit E.",
+  "scores": 0.0
+}

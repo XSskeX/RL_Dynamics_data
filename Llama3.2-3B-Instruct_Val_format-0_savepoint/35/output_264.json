@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nWrite a paragraph using words that contain only three types of vowels. What happens to a story if the balance between male and female character is lost?assistant\n\n",
+  "response": "Here is a paragraph using words that contain only three types of vowels (A, E, and I):\n\n\"Ape eyes idle, a kite flies high. Ape's kite is icy, a kite's eye is wise. Ape's kite is idle, a kite's eye is dry. Ape's kite is icy, a kite's eye is high.\"\n\nAs for the balance between male and female characters in a story, losing this balance can lead to a lack of depth and diversity in the narrative. When the number of male characters far outweighs the number of female characters, it can create a patriarchal atmosphere that reinforces stereotypes and limits the perspectives of the female characters. This imbalance can also lead to a lack of tension and conflict, as the female characters may be relegated to secondary or supporting roles. Furthermore, an overemphasis on male characters can result in a story that feels one-dimensional and lacking in nuance, ultimately detracting from the overall impact of the narrative.",
+  "scores": 1.0
+}

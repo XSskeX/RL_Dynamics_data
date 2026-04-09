@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nEach sentence in your response must contain exactly 4 more words than the previous one. Would a nasal spray composed only of Sodium Hyaluronate 0.25mg and Dexpanthenol 20.0mg be free from the typical side effects of antihistamine-containing nasal sprays?assistant\n\n",
+  "response": "Typically, nasal sprays contain ingredients. Ingredients can vary in composition greatly. Composition of the ingredients matters significantly. Significantly, the formulation affects efficacy greatly.",
+  "scores": 0.0
+}

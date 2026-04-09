@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nQuestion: Two long parallel conductors carry 100 A. If the conductors are separated by 20 mm, the force per meter of length of each conductor will be\nOptions: A. 100 N.\nB. 0.01 N.\nC. 10 N.\nD. 0.5 N.\nE. 0.001 N.\nF. 5 N.\nG. 1 N.\nH. 50 N.\nI. 0.1 N.\nJ. 0.0001 N.\nAnswer: Let's think step by step and then finish your answer with 'the answer is (X)' where X is the correct letter choice.assistant\n\n",
+  "response": "To find the force per meter of length of each conductor, we can use the formula for the force between two parallel conductors:\n\nF = (μ₀ \\* I₁ \\* I₂) / (2 \\* π \\* r)\n\nwhere:\n- F is the force between the conductors\n- μ₀ is the magnetic constant (permeability of free space), approximately 4π x 10⁻⁷ T·m/A\n- I₁ and I₂ are the currents in the two conductors\n- r is the distance between the conductors\n\nGiven:\n- I₁ = I₂ = 100 A\n- r = 20 mm = 0.02 m\n\nPlugging in the values, we get:\n\nF = (4π x 10⁻⁷ T·m/A \\* 100 A \\* 100 A) / (2 \\* π \\* 0.02 m)\n= (4 x 10⁻⁷ \\* 10000) / (0.04)\n= 0.1 N\n\nThe answer is I.",
+  "scores": 1.0
+}

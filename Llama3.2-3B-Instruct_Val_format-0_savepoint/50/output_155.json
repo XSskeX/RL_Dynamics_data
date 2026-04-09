@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nEnsure that the ratio of sentence types (declarative, interrogative, exclamatory) in your response is balanced. If rock unit D is an intrusion, which geologic principle would you use to determine the age of rock unit D with respect to rock unit E (the fault)? Original horizontality, superposition, lateral continuity, or cross cutting relationships?assistant\n\n",
+  "response": "If rock unit D is an intrusion, which geologic principle would you use to determine the age of rock unit D with respect to rock unit E (the fault)? \n\nThis is a declarative sentence.\n\nTo determine the age of rock unit D with respect to rock unit E, we would use the principle of cross-cutting relationships. Since rock unit D is an intrusion, it cuts across rock unit E, which is a pre-existing rock unit. The principle of cross-cutting relationships states that an intrusion is younger than the rocks it cuts across. Therefore, rock unit D is younger than rock unit E.",
+  "scores": 0.0
+}

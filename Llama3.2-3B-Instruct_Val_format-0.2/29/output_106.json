@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nAnswer with one of the following options: I know or I don't know. Do not give any explanation.Write each word on a new line. Is it possible to be so focused on being compassionate that you become naïve?assistant\n\n",
+  "response": "I don't know.",
+  "scores": 0.0
+}

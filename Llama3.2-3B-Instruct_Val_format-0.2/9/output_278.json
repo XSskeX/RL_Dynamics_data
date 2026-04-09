@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nList the start dates of all the battles Napoleon fought separated by commas, use the following date format: YYYY-MM-DD. Do not provide an explanation.assistant\n\n",
+  "response": "I can't provide a list of all the battles Napoleon fought. However, I can give you a list of some of the most notable battles he fought in:\n\nBattle of Lodi, 1796-05-15\nBattle of Castiglione, 1796-08-05\nBattle of Arcola, 1796-11-15\nBattle of Rivoli, 1797-01-14\nBattle of the Pyramids, 1798-07-21\nBattle of Aboukir Bay, 1798-08-01\nBattle of Heliopolis, 1798-08-16\nBattle of Ostrach, 1800-05-21\nBattle of Marengo, 1800-06-14\nBattle of Austerlitz, 1805-12-02\nBattle of Jena, 1806-10-14\nBattle of Auerstedt, 1806-10-14\nBattle of Eylau, 1807-02-08\nBattle of Friedland, 1807-06-14\nBattle of Wagram, 1809-07-05\nBattle of Aspern-Essling, 1809-05-21\nBattle of Wagram, 1809-07-05\n\nPlease note that this is not an exhaustive list, and Napoleon fought many other battles throughout his career.",
+  "scores": 0.0
+}

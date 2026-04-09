@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nInclude exactly 3 numbers in the response. Make this short: An alignment of resources and education goals within each community is needed to support the education ecosystem of students, teachers, and parents and assist in the adjustment to the new normal—homeschooling, parents-teachers training, community internet centers, a Citizen Watch for Education, and establishing LGU leaders as education champions.assistant\n\n",
+  "response": "To effectively support the education ecosystem, a community-led approach is necessary. This involves aligning resources and education goals, such as:\n\n* 80% of community members participating in parent-teachers training\n* 50% of LGU leaders receiving education champion training\n* 200 community internet centers established to provide access to online resources\n\nBy working together, communities can create a supportive environment for students, teachers, and parents to thrive in the new normal of homeschooling.",
+  "scores": 1.0
+}

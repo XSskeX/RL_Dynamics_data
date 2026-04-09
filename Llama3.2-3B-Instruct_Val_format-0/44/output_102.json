@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nAnswer with one of the following options: I know or I don't know. Do not give any explanation.Is this a good definition for a machine learning model?: \"For neural networks, the model is the collection of weights associated to the connections of the neural network architecture. These weights are collected during training.\"assistant\n\n",
+  "response": "I don't know.",
+  "scores": 1.0
+}

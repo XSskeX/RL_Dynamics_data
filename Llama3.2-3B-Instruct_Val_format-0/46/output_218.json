@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nEnsure each word in your response has at least one consonant cluster (two or more consonants together). Alternate between words with odd and even numbers of syllables. rewrite: organising multiple teams to align and start work on the same deliveryassistant\n\n",
+  "response": "Here's the rewritten text with each word having at least one consonant cluster and alternating between words with odd and even numbers of syllables:\n\n1. Organising (odd, 3 syllables) -> Organising (no change)\n2. Multiple (even, 2 syllables) -> Multiplicating\n3. Teams (odd, 1 syllable) -> Trams\n4. To (odd, 1 syllable) -> Tough\n5. Align (odd, 2 syllables) -> Aligning\n6. And (odd, 1 syllable) -> And\n7. Start (odd, 1 syllable) -> Streak\n8. Work (odd, 1 syllable) -> Wrack\n9. On (odd, 1 syllable) -> Knock\n10. The (odd, 1 syllable) -> Throng\n11. Same (odd, 1 syllable) -> Slammer\n12. Delivery (even, 3 syllables) -> Delivering\n\nHere's the rewritten text:\n\nOrganising multiplications trams tough aligning and streak wrack knock throng slammer delivering",
+  "scores": 0.0
+}

@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\npython extract filename from filepath Ensure that stop words constitute no more than 23% of the total words in your response.assistant\n\n",
+  "response": "import os\nimport re\n\ndef extract_filename(filepath):\n    # Extract the filename from the filepath\n    filename = os.path.basename(filepath)\n    return filename\n\n# Test the function\nfilepath = \"/path/to/your/file.txt\"\nprint(extract_filename(filepath))  # Output: file.txt",
+  "scores": 1.0
+}

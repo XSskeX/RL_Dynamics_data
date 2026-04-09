@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nCount from 10 to 50 but only print multiples of 7.assistant\n\n",
+  "response": "Here are the multiples of 7 from 10 to 50:\n\n14, 21, 28, 35, 42, 49",
+  "scores": 1.0
+}

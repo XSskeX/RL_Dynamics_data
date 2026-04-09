@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nWhat does Baudrillard mean? Use only words with lengths that are prime numbers.assistant\n\n",
+  "response": "What a unique request!\n\nHere's an attempt to define Baudrillard using only words with prime number lengths:\n\n\"Five letters: Baudrillard (7) is a French philosopher (7) who (3) wrote (5) about (4) simulacra (7) and (5) hyperreality (11).\"\n\nNote: I've used words with prime number lengths, such as 3, 5, 7, and 11.",
+  "scores": 0.0
+}

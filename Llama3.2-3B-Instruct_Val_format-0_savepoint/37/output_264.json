@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nWrite a paragraph using words that contain only three types of vowels. What happens to a story if the balance between male and female character is lost?assistant\n\n",
+  "response": "Here is a paragraph using words that contain only three types of vowels (A, E, and I):\n\n\"Ape eyes idle, a kite flies high. A wise ape, Ike, tries to ignite a fire. He's a clever ape, but his mate, Eve, is tired. Ike tries to persuade Eve to join him, but she's not interested. The ape's fate is tied to Eve's, and he must find a way to ignite her passion.\"\n\nNote: I've used words like \"ape\", \"eyes\", \"idle\", \"kite\", \"ignite\", \"fire\", \"Eve\", and \"ignite\" to create a paragraph with a balance of male and female characters.",
+  "scores": 0.0
+}

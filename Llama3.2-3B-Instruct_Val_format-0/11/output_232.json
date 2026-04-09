@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nFor a photodiode with a given Quantum efficiency, how its responsivity related with wavelength increase? Alternate between words with odd and even numbers of syllables.assistant\n\n",
+  "response": "Responsivity, a measure of photodiode's sensitivity, increases with wavelength, a longer range. \n\nShorter wavelengths, like UV, result in lower responsivity, a lessened capacity. \n\nAs wavelength grows, responsivity rises, a heightened sensitivity. \n\nInvisible light, like IR, demands higher responsivity, a more precise detection.",
+  "scores": 0.0
+}

@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nEach word in your response must start with the next letter of the alphabet, looping back to 'A' after 'Z'. Transform the poetic stanza into a description for an anime.  We are the school idols, hearts on fire, Singing our stories, reaching higher. Together we shine, a symphony, In this dance of youth and melody.assistant\n\n",
+  "response": "Astonishing beauty, captivating dreams, Echoing heartfelt harmonies, Inspiring juvenile souls, Joyful kinetic lyrics, Magical melodies, Nimble optimism, Passionate quartets, Radiant voices, Uniting vocalists, Wondrous xylophone yearnings.\n\nA - Astonishing beauty\nB - Captivating dreams\nC - Echoing heartfelt harmonies\nD - Inspiring juvenile souls\nE - Joyful kinetic lyrics\nF - Magical melodies\nG - Nimble optimism\nH - Passionate quartets\nI - Radiant voices\nJ - Uniting vocalists\nK - Wondrous xylophone yearnings",
+  "scores": 0.0
+}

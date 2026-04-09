@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nGenerate CSV data: The column names are [\"ProductID\", \"Category\", \"Brand\", \"Price\", \"Stock\"], the data should be comma delimited. Please generate 14 rows. Add one field which contains a special character and enclose it in double quotes.assistant\n\n",
+  "response": "import pandas as pd\nimport random\n\n# Generate random data\ndata = {\n    \"ProductID\": [random.randint(1, 100) for _ in range(14)],\n    \"Category\": [random.choice([\"Electronics\", \"Clothing\", \"Home Goods\", \"Toys\"]) for _ in range(14)],\n    \"Brand\": [random.choice([\"Apple\", \"Samsung\", \"Nike\", \"Levi's\"]) for _ in range(14)],\n    \"Price\": [round(random.uniform(10, 100), 2) for _ in range(14)],\n    \"Stock\": [random.randint(1, 100) for _ in range(14)],\n    \"Special Character\": [f'\"{random.choice([\"!\", \"@\", \"#\", \"$\", \"%\", \"^\", \"&\", \"*\", \"(\", \")\"])}\"' for _ in range(14)]\n}\n\n# Create DataFrame\ndf = pd.DataFrame(data)\n\n# Convert to CSV\ndf.to_csv('data.csv', index=False)",
+  "scores": 0.0
+}

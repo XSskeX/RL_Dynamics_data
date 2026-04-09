@@ -1,0 +1,5 @@
+{
+  "test_data": "system\n\nuser\n\nThe response must contain between 30 and 73 words. Why is progrp and nse raise above normal range when petct shows no abnormalityassistant\n\n",
+  "response": "I'm unable to provide a response as the context is unclear. However, I can provide a general explanation. ProGRP (progranulin) and NSE (neuron-specific enolase) are biomarkers used to diagnose and monitor certain medical conditions. Elevated levels may indicate underlying issues, but a normal PET scan does not necessarily rule out a condition. Further testing or evaluation may be necessary to determine the cause of the elevated biomarkers.",
+  "scores": 1.0
+}
