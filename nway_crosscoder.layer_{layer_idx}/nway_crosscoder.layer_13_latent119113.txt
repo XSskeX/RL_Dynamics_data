@@ -1,0 +1,1 @@
+"Tokens that are formatting or punctuation elements (spaces, dollar signs, braces, periods, backslashes) occurring at boundaries between text and mathematical expressions in LaTeX problem statements."

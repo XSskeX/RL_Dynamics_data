@@ -1,0 +1,1 @@
+"The highlighted tokens are mathematical notation, logical connectors, and structural words commonly used in math problem statements."

@@ -1,0 +1,1 @@
+"The token \"is\" appears with high activation in the fixed instruction phrase \"where $Answer is the answer to the problem.\""

@@ -1,0 +1,1 @@
+"Tokens that are part of LaTeX commands or math formatting, often at the start of a command or critical for syntax."

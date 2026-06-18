@@ -1,0 +1,1 @@
+"The token sequence \"Answer is\" appears within a specific instruction about the required output format for math problem solutions."

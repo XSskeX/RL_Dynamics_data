@@ -1,0 +1,1 @@
+"Tokens that are part of mathematical notation, such as closing delimiters, LaTeX commands, and operators, in the context of math problem statements."
