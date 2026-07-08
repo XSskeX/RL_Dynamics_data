@@ -1,1 +1,0 @@
-"The model consistently attends to the first dollar sign initiating LaTeX math mode in a math problem, often with high activation, and occasionally to adjacent tokens that are part of the initial mathematical expression."

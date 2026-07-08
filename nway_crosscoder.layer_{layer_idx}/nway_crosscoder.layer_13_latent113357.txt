@@ -1,1 +1,0 @@
-"Key tokens from a repeated instruction template for solving math problems step-by-step."

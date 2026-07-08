@@ -1,0 +1,1 @@
+"Tokens specifying explicit formatting or content constraints within instructional prompts, such as word counts, punctuation rules, structural requirements, or keyword inclusions."

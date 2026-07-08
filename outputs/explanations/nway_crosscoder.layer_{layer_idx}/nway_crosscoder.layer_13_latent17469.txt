@@ -1,0 +1,1 @@
+"The token \"<|begin_of_text|>\" serves as a strong delimiter separating distinct instructions or queries within a multi-part prompt."

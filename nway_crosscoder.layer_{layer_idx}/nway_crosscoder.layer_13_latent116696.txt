@@ -1,1 +1,0 @@
-"The tokens \" $\", \" where\", \" $\", \"Answer\" are consistently highlighted as part of a required output format instruction for math problem solutions."

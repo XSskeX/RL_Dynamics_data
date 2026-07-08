@@ -1,0 +1,1 @@
+"The activated token is the most semantically central word within the highlighted phrase, often a noun or verb that conveys the core meaning or constraint."

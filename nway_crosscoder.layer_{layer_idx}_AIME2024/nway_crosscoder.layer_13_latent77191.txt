@@ -1,0 +1,1 @@
+"Key mathematical and structural tokens within problem statements that are essential for solving the problem, including numbers, variables, operators, and important function words."

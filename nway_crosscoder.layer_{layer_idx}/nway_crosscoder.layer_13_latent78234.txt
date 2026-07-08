@@ -1,1 +1,0 @@
-"Punctuation and LaTeX delimiters that separate mathematical expressions from natural language in math problem statements."

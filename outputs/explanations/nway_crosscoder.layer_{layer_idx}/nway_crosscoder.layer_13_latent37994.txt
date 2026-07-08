@@ -1,0 +1,1 @@
+"The token \"<|begin_of_text|>\" serves as a separator between multiple concatenated instructions or prompts, marking transitions between distinct requests or tasks."

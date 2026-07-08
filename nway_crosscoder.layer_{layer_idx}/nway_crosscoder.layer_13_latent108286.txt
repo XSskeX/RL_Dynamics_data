@@ -1,1 +1,0 @@
-"The model highlights tokens that are critical for mathematical problem-solving, including numerical values, variables, operators, and key descriptive terms within problem statements and expressions."

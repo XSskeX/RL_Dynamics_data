@@ -1,1 +1,0 @@
-"Important tokens are structural elements of mathematical notation, such as spaces, operators, and delimiters, that separate or connect parts of expressions."

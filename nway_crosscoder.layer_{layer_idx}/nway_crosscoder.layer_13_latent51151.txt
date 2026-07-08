@@ -1,1 +1,0 @@
-"The tokens \")\", \"where\", and \"<|begin_of_text|>\" are part of a recurring instruction format in math problem prompts, specifically the phrase \"without quotes) where\" and the beginning-of-text marker."

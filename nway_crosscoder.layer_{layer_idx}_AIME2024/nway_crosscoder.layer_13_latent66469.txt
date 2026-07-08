@@ -1,0 +1,1 @@
+"Key mathematical tokens (numbers, variables, symbols) in problem statements that are critical for solving the problem."

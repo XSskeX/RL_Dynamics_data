@@ -1,0 +1,1 @@
+"The examples show the model attending to structural markers and formatting instructions within prompts, such as punctuation delimiting rules, the token \"Question\" indicating a new question, and tokens that enforce specific constraints like word repetition or language requirements."

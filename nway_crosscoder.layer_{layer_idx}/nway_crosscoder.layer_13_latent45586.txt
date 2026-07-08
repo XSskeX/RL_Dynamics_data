@@ -1,1 +1,0 @@
-"The token is an article (typically \"the\" or \"a\") that introduces a key mathematical object or concept in a problem statement."

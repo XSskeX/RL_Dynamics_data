@@ -1,0 +1,1 @@
+"The token \"<|begin_of_text|>\" serves as a delimiter separating multiple distinct user requests or instructions, consistently receiving high activation."

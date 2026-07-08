@@ -1,0 +1,1 @@
+"LaTeX formatting tokens and transition words near the boundary between the problem statement and the instruction to solve."

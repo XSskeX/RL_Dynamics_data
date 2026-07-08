@@ -1,0 +1,1 @@
+"The special token `<|begin_of_text|>` consistently appears as a highly activated delimiter separating multiple instructions, questions, or tasks within a single input."

@@ -1,1 +1,0 @@
-"The important tokens are the definite article \"the\", possessive \"your\", and verb \"is\" within a repeated instruction template for math problem answers."

@@ -1,1 +1,0 @@
-"The highlighted tokens are typically mathematical notation elements, such as LaTeX delimiters (e.g., $, {), commands (e.g., \\over), spaces, digits, and units (e.g., per), which are critical for parsing the structure and content of math problems."

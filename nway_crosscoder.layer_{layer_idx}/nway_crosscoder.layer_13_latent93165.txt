@@ -1,1 +1,0 @@
-"Mathematical tokens, including numbers, variables, operators, and LaTeX commands, that are central to the problem's equations or geometric configurations."

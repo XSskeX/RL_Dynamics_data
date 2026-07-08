@@ -1,0 +1,1 @@
+"Tokens that are part of explicit instructions about text structure or formatting constraints (e.g., conjunctions, prepositions, determiners, or imperative verbs in rules)."

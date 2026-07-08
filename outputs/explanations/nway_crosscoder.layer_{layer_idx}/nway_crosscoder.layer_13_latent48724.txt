@@ -1,0 +1,1 @@
+"The highlighted tokens are either part of common idiomatic expressions or grammatical patterns (like comparative suffixes), or are key constraint terms from user instructions that dictate specific output requirements (such as formatting, word limits, code language, or repetition conditions)."

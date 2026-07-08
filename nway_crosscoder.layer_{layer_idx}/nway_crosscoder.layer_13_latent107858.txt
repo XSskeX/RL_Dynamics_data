@@ -1,1 +1,0 @@
-"The marked tokens are typically parentheses, brackets, and function argument delimiters in mathematical notation or Asymptote drawing commands, highlighting syntactic structure in technical text."

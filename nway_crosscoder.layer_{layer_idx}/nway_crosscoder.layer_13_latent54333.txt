@@ -1,1 +1,0 @@
-"Key mathematical terms and structural elements in problem statements, including nouns for objects (e.g., grid, system, game, plane, polygon) and LaTeX delimiters."

@@ -1,0 +1,1 @@
+"The high activation of the special start-of-text delimiter token in all examples."

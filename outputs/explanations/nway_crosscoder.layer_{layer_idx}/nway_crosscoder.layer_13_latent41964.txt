@@ -1,0 +1,1 @@
+"The token \"<|begin_of_text|>\" serves as a delimiter separating multiple distinct prompts or instructions in the input."

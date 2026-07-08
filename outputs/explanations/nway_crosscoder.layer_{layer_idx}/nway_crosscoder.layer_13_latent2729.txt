@@ -1,0 +1,1 @@
+"The token \"<|begin_of_text|>\" is consistently activated, marking boundaries between multiple separate instructions or prompts in the input."

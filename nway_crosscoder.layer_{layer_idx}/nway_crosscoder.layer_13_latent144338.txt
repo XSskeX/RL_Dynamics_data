@@ -1,1 +1,0 @@
-"The text includes a recurring instruction to solve a math problem step by step and output the answer in the format \"Answer: $Answer\"."

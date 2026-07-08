@@ -1,1 +1,0 @@
-"A fixed instruction template for formatting the final answer in a math problem, specifying the answer should be given as \"Answer: $Answer\" without quotes."

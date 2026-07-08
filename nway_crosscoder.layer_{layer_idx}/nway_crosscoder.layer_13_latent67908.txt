@@ -1,1 +1,0 @@
-"The important tokens are problem-specific nouns, numbers, and mathematical symbols that are crucial to the problem's conditions and solution."

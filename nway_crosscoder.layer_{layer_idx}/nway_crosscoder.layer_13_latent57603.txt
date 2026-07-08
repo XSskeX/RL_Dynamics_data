@@ -1,1 +1,0 @@
-"Important tokens are grammatical function words (possessives, articles, prepositions, pronouns, and math delimiters) that are critical for syntactic structure in mathematical problem statements."

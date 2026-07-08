@@ -1,0 +1,1 @@
+"Important tokens are LaTeX syntax elements (backslashes, dollar signs, braces, parentheses), punctuation, and common English function words that structure mathematical problem statements."

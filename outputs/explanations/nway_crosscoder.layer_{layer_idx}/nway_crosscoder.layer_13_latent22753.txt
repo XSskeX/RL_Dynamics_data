@@ -1,0 +1,1 @@
+"The activated tokens are either the first word of a specific instruction or constraint (e.g., \"Use\", \"State\", \"not\", \"they\") or a key noun central to the user's query (e.g., \"Arabs\", \"Jewish\", \"investor\", \"cannulate\"), all with high importance for guiding the model's response."

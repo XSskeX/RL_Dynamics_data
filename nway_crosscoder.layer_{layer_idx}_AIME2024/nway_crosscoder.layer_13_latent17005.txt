@@ -1,0 +1,1 @@
+"The highlighted tokens are predominantly LaTeX syntax (curly braces, backslashes, dollar signs, underscores, carets) and common English words (the, to, at, equal, below, does) that appear in math problem statements, often as part of the problem's phrasing or the instruction boilerplate."

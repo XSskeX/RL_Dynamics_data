@@ -1,0 +1,1 @@
+"The token \"<|begin_of_text|>\" is consistently activated as a delimiter separating multiple instruction segments or prompts."

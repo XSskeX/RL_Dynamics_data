@@ -1,0 +1,1 @@
+"The token \"Question\" appears as a structured delimiter in a multiple-choice question answering prompt."

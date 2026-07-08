@@ -1,1 +1,0 @@
-"Punctuation and LaTeX delimiters marking the end of mathematical expressions or statements, crucial for proper formatting and parsing in math problem contexts."

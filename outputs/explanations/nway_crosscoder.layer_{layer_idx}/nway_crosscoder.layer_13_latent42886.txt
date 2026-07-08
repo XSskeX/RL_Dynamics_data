@@ -1,0 +1,1 @@
+"The common pattern is the presence of the special delimiter token <|begin_of_text|> that separates multiple instructions or prompts within the input."

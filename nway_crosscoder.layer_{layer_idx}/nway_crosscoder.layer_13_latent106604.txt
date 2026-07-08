@@ -1,1 +1,0 @@
-"The selected tokens are key mathematical terms (nouns, verbs, adjectives) central to competition math problems, such as objects, quantities, properties, and actions essential for problem understanding and solution."

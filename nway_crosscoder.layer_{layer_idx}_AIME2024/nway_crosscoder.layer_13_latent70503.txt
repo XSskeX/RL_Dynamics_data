@@ -1,0 +1,1 @@
+"Key mathematical variables, numbers, and symbols that are central to solving the problem."

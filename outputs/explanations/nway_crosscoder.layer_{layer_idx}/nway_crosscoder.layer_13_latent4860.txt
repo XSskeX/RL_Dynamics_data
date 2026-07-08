@@ -1,0 +1,1 @@
+"Important tokens correspond to key elements of task instructions or output constraints, including imperative verbs (e.g., \"List\", \"Generate\", \"Find\"), correct answer choices (e.g., \"D\" in multiple-choice questions), and specific subword components of required words (e.g., \"ing\", \"ith\", \" code\", \" for\", \" end\", \" post\") that the model must follow or produce."

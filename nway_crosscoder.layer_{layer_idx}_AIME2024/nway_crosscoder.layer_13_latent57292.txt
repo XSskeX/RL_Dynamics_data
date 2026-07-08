@@ -1,0 +1,1 @@
+"Important tokens in math problem statements that are either LaTeX delimiters (dollar signs, braces, backslashes, spaces) or common English words (with, whose, its) that are critical for parsing the problem's structure and conditions."

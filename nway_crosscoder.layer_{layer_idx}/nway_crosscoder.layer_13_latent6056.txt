@@ -1,1 +1,0 @@
-"The activated tokens are the most informative words and symbols in mathematical problem statements, often including key terms, numbers, and mathematical operators that define the problem's conditions."

@@ -1,0 +1,1 @@
+"The token <|begin_of_text|> is repeatedly used as a delimiter between concatenated instructions or formatting constraints, with high activation indicating its role in processing multiple sequential requests."

@@ -1,0 +1,1 @@
+"Tokens that are part of explicit formatting instructions or structural markers in tasks (e.g., colons, numbers, prepositions, punctuation) that are critical for following constraints or parsing question-answer formats."

@@ -1,0 +1,1 @@
+"Tokens that are initial words of instructions or key elements of formatting constraints in prompts, especially those involving repetition, specific structure, or keyword inclusion."

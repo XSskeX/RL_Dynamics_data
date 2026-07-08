@@ -1,1 +1,0 @@
-"The tokens \"your\" and \"without\" are consistently highlighted as part of the instruction \"The last line of your response should be of the form Answer: $Answer (without quotes)\" in math problem prompts."

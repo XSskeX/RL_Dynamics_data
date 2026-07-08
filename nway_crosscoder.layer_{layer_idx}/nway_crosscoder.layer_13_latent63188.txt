@@ -1,1 +1,0 @@
-"The model attends to tokens that are either LaTeX syntax elements (dollar signs, braces, carets, backslashes, commands like \\text) or key content words (nouns, articles, prepositions) that are part of compound terms or critical for parsing mathematical expressions and problem context."

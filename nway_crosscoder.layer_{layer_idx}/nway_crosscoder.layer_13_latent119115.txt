@@ -1,1 +1,0 @@
-"The highlighted tokens are primarily mathematical symbols, LaTeX commands, and English words that define geometric or algebraic relationships (e.g., \"tangent\", \"inscribed\", \"intersect\", \"such that\", \"and\", \"the\", \"of\", \"in\") within math problem statements."

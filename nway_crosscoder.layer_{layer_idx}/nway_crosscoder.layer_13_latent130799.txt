@@ -1,1 +1,0 @@
-"The tokens are components of mathematical notation, LaTeX commands, or Asymptote code that are critical for problem-solving contexts."

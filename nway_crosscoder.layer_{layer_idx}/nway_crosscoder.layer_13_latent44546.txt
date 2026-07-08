@@ -1,1 +1,0 @@
-"Mathematical tokens (numbers, variables, and operators) that are key components of expressions in problem statements or solutions, often appearing in fractions, subscripts, or as denominators."

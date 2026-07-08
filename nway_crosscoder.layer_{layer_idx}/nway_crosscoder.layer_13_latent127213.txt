@@ -1,1 +1,0 @@
-"Critical mathematical symbols, numbers, variables, operators, and LaTeX commands that form essential parts of the problem statements."

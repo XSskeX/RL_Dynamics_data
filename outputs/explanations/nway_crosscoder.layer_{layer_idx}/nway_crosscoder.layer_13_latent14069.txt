@@ -1,0 +1,1 @@
+"The token \"<|begin_of_text|>\" is a delimiter that marks the start of a new segment or instruction, commonly used in prompt engineering or model training data."

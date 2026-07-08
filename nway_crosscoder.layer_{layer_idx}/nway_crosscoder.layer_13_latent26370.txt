@@ -1,1 +1,0 @@
-"Mathematical LaTeX tokens such as dollar signs, brackets, and formatting commands that denote math mode and structure."

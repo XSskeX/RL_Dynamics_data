@@ -1,1 +1,0 @@
-"The token \"form\" is highly activated in instructions specifying the required output format for the answer."

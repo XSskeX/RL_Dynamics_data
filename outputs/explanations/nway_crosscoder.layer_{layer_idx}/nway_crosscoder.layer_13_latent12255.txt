@@ -1,0 +1,1 @@
+"The token \"<|begin_of_text|>\" is repeatedly highlighted, serving as a delimiter between multiple distinct prompts or instructions concatenated in the input."

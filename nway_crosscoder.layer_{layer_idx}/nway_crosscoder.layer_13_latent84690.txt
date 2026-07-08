@@ -1,1 +1,0 @@
-"The token \"Find\" is a key instruction in math problem statements, indicating the quantity to be computed."
