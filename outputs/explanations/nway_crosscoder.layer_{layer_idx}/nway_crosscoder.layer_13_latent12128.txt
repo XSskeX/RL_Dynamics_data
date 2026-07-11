@@ -1,0 +1,1 @@
+"Tokens with high activation that are key elements of user instructions or prompts, often appearing as the first word of a phrase, part of a template, or a critical content word that guides the model's response."

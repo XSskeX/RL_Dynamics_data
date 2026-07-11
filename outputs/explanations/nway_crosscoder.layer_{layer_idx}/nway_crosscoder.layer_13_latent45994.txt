@@ -1,1 +1,0 @@
-"The pattern is that the highly activated tokens are key words or formatting markers that appear as part of the user's instruction or prompt template, often indicating a specific requirement such as a multiple-choice question (\"Question\"), writing style (\"title\"), or other constraints (\"set\", \"types\", \"Copy\", \"end\", \"scientific\")."

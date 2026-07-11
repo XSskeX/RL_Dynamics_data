@@ -1,1 +1,0 @@
-"The activated tokens are critical components of explicit instructions or constraints embedded in the text, often specifying numerical requirements (e.g., counts of words, pronouns, palindromes) or key words for formatting, content, or behavior, typically appearing after a delimiter like `<|begin_of_text|>`."

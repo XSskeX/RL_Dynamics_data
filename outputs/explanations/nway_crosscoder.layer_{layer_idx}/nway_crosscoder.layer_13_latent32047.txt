@@ -1,0 +1,1 @@
+"High-activation tokens that are key components of instructional commands and constraints in prompts, such as demonstratives (\"this\", \"the\"), pronouns (\"it\", \"their\"), verbs (\"be\", \"act\", \"think\", \"prove\"), and task-specific nouns (\"brainstorm\", \"names\", \"literature\")."

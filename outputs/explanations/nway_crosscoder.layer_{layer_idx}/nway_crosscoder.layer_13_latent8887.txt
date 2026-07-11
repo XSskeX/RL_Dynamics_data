@@ -1,1 +1,0 @@
-"The token \"<|begin_of_text|>\" consistently serves as a delimiter between multiple distinct instructions or tasks within the input."

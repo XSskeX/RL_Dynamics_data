@@ -1,1 +1,0 @@
-"The token \"<|begin_of_text|>\" is highly activated as a delimiter separating multiple distinct instructions or constraints within a single prompt."

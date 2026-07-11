@@ -1,1 +1,0 @@
-"The special delimiter token <|begin_of_text|> is used to separate multiple distinct prompts or instructions within a single input."

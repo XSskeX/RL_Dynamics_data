@@ -1,0 +1,1 @@
+"High activation on tokens marking the start of a new instruction or task after a preceding structured prompt, particularly in multi-step formats like multiple-choice questions or list formatting constraints."

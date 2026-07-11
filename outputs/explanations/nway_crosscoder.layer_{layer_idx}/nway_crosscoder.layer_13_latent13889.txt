@@ -1,1 +1,0 @@
-"The model consistently attends to the special delimiter token \"<|begin_of_text|>\" which separates distinct segments or instructions within the input."

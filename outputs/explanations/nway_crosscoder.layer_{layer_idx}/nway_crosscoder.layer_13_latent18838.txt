@@ -1,0 +1,1 @@
+"The highlighted tokens are key elements of instructional phrases that specify output formatting or content constraints, most commonly the word \"choice\" in multiple-choice answer format instructions, along with \"step\" in chain-of-thought reasoning prompts, and other domain-specific keywords from user requests."

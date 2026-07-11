@@ -1,0 +1,1 @@
+"The colon token following \"Question\" in a multiple-choice question format."

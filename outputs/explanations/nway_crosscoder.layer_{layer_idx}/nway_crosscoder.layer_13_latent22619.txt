@@ -1,0 +1,1 @@
+"The token \"write\" (or \"Write\") is consistently activated as a command to generate textual content, often following a <|begin_of_text|> marker and preceding a specific writing task."

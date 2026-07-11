@@ -1,1 +1,0 @@
-"The token \"<|begin_of_text|>\" frequently separates multiple instructions or constraints in a prompt, often requiring step-by-step reasoning with a specific answer format, such as \"the answer is (X)\" or \"Answer: $Answer\"."

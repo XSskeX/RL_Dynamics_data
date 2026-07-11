@@ -1,1 +1,0 @@
-"The special delimiter token \"<|begin_of_text|>\" appears repeatedly, separating multiple independent instructions or queries within a single input."

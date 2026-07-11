@@ -1,0 +1,1 @@
+"The colon token following the word \"Question\" in a structured multiple-choice question format, indicating a delimiter that separates the question label from the content."

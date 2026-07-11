@@ -1,0 +1,1 @@
+"Tokens critical for satisfying explicit user constraints in instruction-following tasks, often appearing near formatting markers or as part of required keywords and list items."

@@ -1,0 +1,1 @@
+"The selected tokens are typically the second part of common two-word phrases or suffixes that complete a predictable sequence, such as \"ocracy\" in \"autocracy\", \"station\" in \"gas station\", or \"of\" in \"part of\", exhibiting high activation values indicating strong collocational or contextual predictability."

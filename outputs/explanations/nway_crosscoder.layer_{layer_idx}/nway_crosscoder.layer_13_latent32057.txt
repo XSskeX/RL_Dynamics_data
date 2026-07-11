@@ -1,1 +1,0 @@
-"The token \"<|begin_of_text|>\" is used as a delimiter between multiple distinct instructions or tasks in a single prompt."

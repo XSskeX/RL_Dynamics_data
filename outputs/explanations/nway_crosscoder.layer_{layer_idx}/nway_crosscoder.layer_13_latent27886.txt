@@ -1,1 +1,0 @@
-"Structural tokens in instructional or multiple-choice question formats."

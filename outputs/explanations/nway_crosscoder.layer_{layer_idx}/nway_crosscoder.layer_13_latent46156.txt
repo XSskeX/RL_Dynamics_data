@@ -1,0 +1,1 @@
+"Tokens that conclude or are part of fixed instructional phrases or response formatting templates, such as \"letter choice\", \"times\", \"your\", or sentence-ending periods."

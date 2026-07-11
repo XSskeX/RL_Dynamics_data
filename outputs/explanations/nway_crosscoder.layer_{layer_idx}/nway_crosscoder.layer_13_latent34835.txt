@@ -1,0 +1,1 @@
+"The colon following \"Question\" in a multiple-choice question format, marking the transition to the question text."

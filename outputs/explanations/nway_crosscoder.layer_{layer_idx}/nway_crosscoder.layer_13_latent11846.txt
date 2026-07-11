@@ -1,0 +1,1 @@
+"Highly predictable next tokens in common English syntactic constructions, often function words or verbs following specific preceding words."

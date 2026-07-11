@@ -1,0 +1,1 @@
+"Important tokens are those that are part of instruction constraints or formatting markers, such as periods, commas, and specific words like \"the\", \"in\", \"and\", often appearing in repeated instruction patterns for output formatting."

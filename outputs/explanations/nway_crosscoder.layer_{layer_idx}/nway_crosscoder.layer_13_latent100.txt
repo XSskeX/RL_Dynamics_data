@@ -1,1 +1,0 @@
-"The token \"<|begin_of_text|>\" is a special delimiter that marks the start of a new text segment or instruction, often following formatting constraints or prior context."

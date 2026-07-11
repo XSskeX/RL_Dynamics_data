@@ -1,1 +1,0 @@
-"The token \"<|begin_of_text|>\" appears repeatedly with high activation, indicating concatenation of multiple instruction segments."

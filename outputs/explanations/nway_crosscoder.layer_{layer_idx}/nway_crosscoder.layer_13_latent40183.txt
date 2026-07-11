@@ -1,1 +1,0 @@
-"The token \"<|begin_of_text|>\" serves as a delimiter separating multiple distinct instructions or prompts, often including formatting constraints or multiple-choice questions, indicating a transition to a new task."

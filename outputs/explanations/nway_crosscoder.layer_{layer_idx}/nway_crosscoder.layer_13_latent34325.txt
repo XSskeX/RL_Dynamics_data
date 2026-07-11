@@ -1,0 +1,1 @@
+"The model consistently assigns high activation to tokens that initiate or structure a user's instruction, particularly imperative verbs like \"write\" and \"explain\" followed by articles or prepositions."

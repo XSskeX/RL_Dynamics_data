@@ -1,1 +1,0 @@
-"High-activation tokens are words critical for interpreting and adhering to the user's explicit instructions or constraints, often appearing at the beginning or key positions of directives."

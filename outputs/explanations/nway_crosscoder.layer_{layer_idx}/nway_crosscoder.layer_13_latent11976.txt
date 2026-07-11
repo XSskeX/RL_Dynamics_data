@@ -1,0 +1,1 @@
+"Tokens that initiate a user instruction or constraint, often following a special delimiter like <|begin_of_text|>."

@@ -1,1 +1,0 @@
-"The token \"<|begin_of_text|>\" appears repeatedly as a delimiter separating multiple instruction segments."

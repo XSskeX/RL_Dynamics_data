@@ -1,1 +1,0 @@
-"Tokens that are part of explicit formatting instructions, template phrases, or keywords in prompts (e.g., \"Question\", \"bullet points\", \"denoted by\", \"Answer with\", \"Let's think step by step\")."

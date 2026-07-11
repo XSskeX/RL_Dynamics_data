@@ -1,0 +1,1 @@
+"The highlighted tokens are key components of common instructional phrases, such as \"write a paragraph\", \"your answer\", \"explain\", and \"descriptive\", which appear in user prompts to direct the model's task or formatting constraints."

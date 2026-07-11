@@ -1,1 +1,0 @@
-"The token \"<|begin_of_text|>\" appears consistently as a delimiter between different instructions or prompts in the text."

@@ -1,1 +1,0 @@
-"The token \"<|begin_of_text|>\" consistently appears with high activation (10) as a delimiter separating multiple distinct instructions or contexts within the input."

@@ -1,0 +1,1 @@
+"The token \"Question\" strongly marks the start of a multiple-choice question in a structured quiz format, often following a system prompt."

@@ -1,1 +1,0 @@
-"The token \"<|begin_of_text|>\" is used repeatedly as a delimiter to separate multiple distinct instructions or segments within the input."

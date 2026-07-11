@@ -1,0 +1,1 @@
+"Tokens that begin a new instruction or request, typically following a formatting delimiter such as `<|begin_of_text|>`, often an imperative verb like \"Write\" or the first word of a task description."

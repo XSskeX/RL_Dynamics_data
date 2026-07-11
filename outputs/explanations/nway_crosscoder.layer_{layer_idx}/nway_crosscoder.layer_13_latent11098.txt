@@ -1,0 +1,1 @@
+"Key structural tokens in instructional prompts or formatting requirements that guide the model's response behavior."

@@ -1,0 +1,1 @@
+"The model's attention focuses on the first token of the user's message after a delimiter, often \"I\", and on tokens that are part of explicit instruction phrases like \"should\", \"with\", or \"ignore\"."

@@ -1,0 +1,1 @@
+"Tokens that are part of explicit formatting or content constraints in instructions, such as \"Use,\" \"the,\" \"same,\" and \"based,\" signaling a required pattern for the response."

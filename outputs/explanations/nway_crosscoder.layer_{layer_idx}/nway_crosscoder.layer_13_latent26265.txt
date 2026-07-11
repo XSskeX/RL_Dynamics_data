@@ -1,0 +1,1 @@
+"Tokens that are imperative verbs or nouns specifying output constraints, often appearing at the start of instructions or after separators."

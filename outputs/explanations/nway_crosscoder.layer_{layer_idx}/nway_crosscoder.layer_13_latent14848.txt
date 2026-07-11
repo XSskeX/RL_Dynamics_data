@@ -1,1 +1,0 @@
-"The token \"<|begin_of_text|>\" is a delimiter marking the start of a new segment or instruction, and the model assigns high activation to it in contexts where multiple instructions or queries are concatenated."

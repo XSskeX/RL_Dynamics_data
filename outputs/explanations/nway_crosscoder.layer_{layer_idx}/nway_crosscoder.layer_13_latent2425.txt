@@ -1,0 +1,1 @@
+"The token <|begin_of_text|> consistently appears with high activation, serving as a delimiter between different sections of instructions or prompts."

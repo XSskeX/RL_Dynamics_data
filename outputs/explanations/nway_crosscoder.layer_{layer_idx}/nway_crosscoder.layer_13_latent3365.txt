@@ -1,1 +1,0 @@
-"The activated tokens are critical components of complex instructions or constraints, such as formatting rules, keyword requirements, or specific content directives, often including punctuation, prepositions, determiners, or key nouns that the model must adhere to."

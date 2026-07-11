@@ -1,1 +1,0 @@
-"The special delimiter token \"<<|begin_of_text|>>\" appears with high activation, marking boundaries between multiple distinct instructions or requests within a single input, often used to separate constraints or tasks."

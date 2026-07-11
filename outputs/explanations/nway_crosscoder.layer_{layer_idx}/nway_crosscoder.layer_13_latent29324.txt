@@ -1,0 +1,1 @@
+"Tokens that immediately follow a `<|begin_of_text|>` delimiter and serve as the first words of a new instruction or request, often including verbs like \"can\", \"count\", \"capitalize\", or structural markers like punctuation and formatting cues."

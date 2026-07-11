@@ -1,1 +1,0 @@
-"The token \"Question\" is highly important as a delimiter signaling the start of a multiple-choice question in a structured prompt format."

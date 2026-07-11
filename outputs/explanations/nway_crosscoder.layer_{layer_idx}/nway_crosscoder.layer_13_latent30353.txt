@@ -1,0 +1,1 @@
+"Tokens that specify the requested output format or action in user instructions, such as \"write\", \"paragraph\", \"sentence\", \"text\", or \"countries\"."

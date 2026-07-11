@@ -1,1 +1,0 @@
-"The token acts as a delimiter separating distinct instructions or prompts within a single input, often marking the beginning of a new segment after an initial request."

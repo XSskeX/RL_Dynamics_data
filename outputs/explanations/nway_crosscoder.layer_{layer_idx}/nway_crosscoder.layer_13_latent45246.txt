@@ -1,0 +1,1 @@
+"Tokens that are part of explicit formatting instructions or structural markers within complex prompts, often following \"<|begin_of_text|>\" and serving as constraints or triggers for specific model behaviors."

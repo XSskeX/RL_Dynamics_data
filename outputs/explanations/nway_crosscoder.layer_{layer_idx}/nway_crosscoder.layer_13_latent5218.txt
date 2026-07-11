@@ -1,1 +1,0 @@
-"The \"<|begin_of_text|>\" token appears with high activation across all examples, functioning as a delimiter to separate multiple instructions, prompts, or segments within the text."

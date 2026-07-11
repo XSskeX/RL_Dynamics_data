@@ -1,1 +1,0 @@
-"The activated tokens are opening parentheses in the instruction \"the answer is (X)\" used to specify the answer format in multiple-choice question-answering tasks."

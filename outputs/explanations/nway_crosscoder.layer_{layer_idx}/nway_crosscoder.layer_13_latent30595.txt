@@ -1,1 +1,0 @@
-"The token \"<|begin_of_text|>\" acts as a delimiter between system instructions or context and the user's actual query or task."

@@ -1,0 +1,1 @@
+"Tokens that are syntactically or structurally critical for following complex instructions, often appearing at boundaries or transitions between clauses."

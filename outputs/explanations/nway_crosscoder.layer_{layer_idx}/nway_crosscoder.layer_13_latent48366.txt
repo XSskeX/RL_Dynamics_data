@@ -1,0 +1,1 @@
+"Tokens that are part of explicit formatting instructions or constraints given to the language model, often appearing after delimiters like <|begin_of_text|> or within specific templates."
